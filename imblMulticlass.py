@@ -35,6 +35,11 @@ References
        (ICPR), 2008.       
 """
 
+def warn(*args, **kwargs):
+    pass
+import warnings
+warnings.warn = warn
+
 """
 MODULES
 """
