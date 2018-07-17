@@ -1,4 +1,4 @@
-# ImbalancedMulticlass: Coping with Class Imbalance in 
+# ImbalancedMulticlass: Coping with Class Imbalance in Multiclassification
 
 This module implements Machine Learning algorithms to cope with Class Imbalance in multiclassification. ImbalancedMulticlass includes a METACost implementation and various boosting algorithms that include resampling during the learning. In the 'test.py' script you can found examples of usage. 
 
